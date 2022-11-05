@@ -10,7 +10,7 @@ Nessa página, eu demonstro minhas habilidades de resolver problemas de negócio
  <h1> Projetos de Análise de Dados utilizando Python: </h1> 
 <ul>
   <li><b>Análise de Dados Escolares [pt]:</b> <a href="https://github.com/flaviomsilva/Analise_Dados_Escolares/blob/main/Analise_Dados_Escolares.ipynb">Visualizar</a></li>
- <li><b>Próximo Projeto [pt]:</b></li>
+ <li><b>Análise de Dados Ecommerce [pt]:</b> <a href="https://github.com/flaviomsilva/Analise_Dados_Ecommerce/blob/main/Analise_ECommerce.ipynb">Visualizar</a></li>
  <li><b>Próximo Projeto [pt]:</b></li>
  <li><b>Próximo Projeto [pt]:</b></li>
  <li><b>Próximo Projeto [pt]:</b></li>
