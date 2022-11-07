@@ -2,7 +2,7 @@
  <h1> Flávio Medeiros</h1>
 Desde 2021 tenho assumido um compromisso com o meu processo de aprendizagem na área de análise dados, para atuar profissionalmente como Analista de Dados e ou Cientista de Dados. Acredito que possa contribuir muito com Squad.
 <br></br>
-Nessa página, eu demonstro minhas habilidades de resolver problemas de negócio utilizando conceitos e ferramentas da Análise de Dados, através de projetos (Estudo de Caso) com dados públicos.
+Nesta página, eu demonstro minhas habilidades de resolver problemas de negócio utilizando conceitos e ferramentas da Análise de Dados, através de uma trilha de projetos (Estudo de Caso) com dados públicos.
 <br></br>
 <b> Experiências:</B> Python, ETL, SQL, POWER BI, ANÁLISE DESCRITIVA
 <br></br>
