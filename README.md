@@ -14,5 +14,10 @@ Os projetos abaixo demonstram minhas habilidades/estudos direcionados para anál
   <li><b>Análise de Dados Escolares:</b> <a href="https://github.com/flaviomsilva/Analise_Dados_Escolares/blob/main/Analise_Dados_Escolares.ipynb">Visualizar</a></li>
  <li><b>Análise de Dados Ecommerce:</b> <a href="https://github.com/flaviomsilva/Analise_Dados_Ecommerce/blob/main/Analise_ECommerce.ipynb">Visualizar</a></li>
  <li><b>Estatística Descritiva:</b> <a href="https://github.com/flaviomsilva/Estatistica_Descritiva/blob/main/Estatistica-Descritiva.ipynb">Visualizar</a></li>
- <li><b>Teste de Hipótese:</b> <a href="https://github.com/flaviomsilva/Teste_De_Hipotese/blob/main/Teste_De_HIpotese.ipynb">Visualizar</a></b></li>
+ <li>
+  <b>Teste de Hipótese:</b> <a href="https://github.com/flaviomsilva/Teste_De_Hipotese/blob/main/Teste_De_HIpotese.ipynb">Visualizar</a></b>
+ </li>
+  <li>
+  <b>Machine Learning - Prever Doenças Hepáticas</b> <a href="https://github.com/flaviomsilva/ML_Doencas_Hepaticas/blob/main/ML_Doencas_Hepaticas.ipynb">Visualizar</a></b>
+ </li>
 </ul>
